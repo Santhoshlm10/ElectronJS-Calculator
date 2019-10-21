@@ -15,4 +15,3 @@ Steps:
 7.Create a file inside MyApp and name it main.js and another file naming it index.html
 8.To run the application you need to type "npm start".
 
-******HAPPY CODING***********  :)
